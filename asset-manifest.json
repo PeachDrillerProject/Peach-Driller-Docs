@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.375c23a9.chunk.css",
+    "main.js": "/static/js/main.5b248e68.chunk.js",
+    "main.js.map": "/static/js/main.5b248e68.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.89cfbd33.js",
+    "runtime-main.js.map": "/static/js/runtime-main.89cfbd33.js.map",
+    "static/css/2.a00c7f48.chunk.css": "/static/css/2.a00c7f48.chunk.css",
+    "static/js/2.4b3ae3ea.chunk.js": "/static/js/2.4b3ae3ea.chunk.js",
+    "static/js/2.4b3ae3ea.chunk.js.map": "/static/js/2.4b3ae3ea.chunk.js.map",
+    "static/js/3.70b3d99d.chunk.js": "/static/js/3.70b3d99d.chunk.js",
+    "static/js/3.70b3d99d.chunk.js.map": "/static/js/3.70b3d99d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a00c7f48.chunk.css.map": "/static/css/2.a00c7f48.chunk.css.map",
+    "static/css/main.375c23a9.chunk.css.map": "/static/css/main.375c23a9.chunk.css.map",
+    "static/js/2.4b3ae3ea.chunk.js.LICENSE.txt": "/static/js/2.4b3ae3ea.chunk.js.LICENSE.txt",
+    "static/media/FullLogo.228bf4f4.png": "/static/media/FullLogo.228bf4f4.png",
+    "static/media/crayon-heart.8dec6c05.svg": "/static/media/crayon-heart.8dec6c05.svg",
+    "static/media/solana-heart.83510f01.svg": "/static/media/solana-heart.83510f01.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89cfbd33.js",
+    "static/css/2.a00c7f48.chunk.css",
+    "static/js/2.4b3ae3ea.chunk.js",
+    "static/css/main.375c23a9.chunk.css",
+    "static/js/main.5b248e68.chunk.js"
+  ]
+}
