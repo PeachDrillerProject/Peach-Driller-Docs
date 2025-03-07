@@ -91,8 +91,19 @@ Because the price of **Peach is dynamic**, early investors have an advantage. Ho
 - **No Forced Reinvestment**: You **choose** how to manage your rewards.
 
 ---
+## 🛠️ On-Chain Program
+Peach Driller is powered by a **fully on-chain Solana program**, ensuring transparency and security. Key features of the program include:
+
+- **Immutable Smart Contract**: Once deployed, the contract code **cannot be altered**, providing trust and reliability.
+- **Decentralized Execution**: All transactions, including deposits, withdrawals, and reinvestments, are processed directly on Solana’s blockchain.
+- **Public Ledger**: Every transaction is **recorded on-chain**, allowing users to track deposits, rewards, and referrals with full transparency.
+- **Gas-Efficient Operations**: The program is optimized to minimize **SOL gas fees**, making it cost-effective for frequent transactions.
+- **Trustless Automation**: Rewards are **automatically distributed** based on the smart contract logic, eliminating the need for manual intervention.
+
+By leveraging **Solana’s high-speed and low-cost blockchain**, Peach Driller offers an efficient and **secure** way to earn passive income.
+
+---
 ## 🚀 Start Drilling Today!
 Ready to start earning? **Deposit $SOL** into **Peach Driller** and watch your rewards grow!
 
 **Join the community and start drilling today!** 🍑⛏️
-
